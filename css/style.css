@@ -1,0 +1,35 @@
+.card-title{
+    white-space: nowrap;  
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    margin-bottom: 0; 
+}
+
+.card-text{
+    white-space: nowrap;  
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    margin-bottom: 0; 
+}
+
+
+
+
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer{
+    margin-top: auto;
+}
+
+.bg-primary-header{
+    background: #0b2149 !important;
+  }
+ 
+  footer{
+
+	background: #0b2149 !important;
+}
